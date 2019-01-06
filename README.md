@@ -14,7 +14,7 @@ In this project, two agents are trained to control the rackets to bounce a ball 
 
 ### Project Details
 
-In the observation space, there are 8 variables corresponding to position, velocity of the ball and racket. Each agents receives its own, local observation. 
+In the observation space, there are 8 variables corresponding to position, velocity of the ball and racket. Each agent receives its own, local observation. 
 
 The actions space is continuous, corresponding to movement toward (or away from) the net, and jumping.
 
